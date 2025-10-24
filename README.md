@@ -1,2 +1,1 @@
-# general-links
-Article links. 
+# Article Links
