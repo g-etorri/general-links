@@ -1,2 +1,2 @@
 # general-links
-Images
+Article links. 
